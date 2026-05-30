@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteecrypt",
+        "uuid": 10700820,
+        "checksum": "ls1p74"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
